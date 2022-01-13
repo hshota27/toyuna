@@ -1,0 +1,17 @@
+.wrap {
+  margin: 60px 15px;
+
+  .top {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  .div {
+    margin: 30px 0;
+
+    .m-15 {
+      display: inline-block;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+  }
+}
