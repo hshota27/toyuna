@@ -14,6 +14,11 @@
   .div {
     margin: 30px 0;
 
+    p {
+      a {
+        text-decoration: underline;
+      }
+    }
     .m-15 {
       display: inline-block;
       font-weight: bold;
