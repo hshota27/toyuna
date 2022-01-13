@@ -221,6 +221,14 @@ select {
   margin: 60px 15px;
 }
 
+.wrap h1 {
+  font-size: 20px;
+}
+
+.wrap .fw-n {
+  font-weight: normal;
+}
+
 .wrap .top {
   text-align: left;
   margin-bottom: 30px;
