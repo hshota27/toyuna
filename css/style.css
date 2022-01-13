@@ -247,4 +247,8 @@ select {
   font-weight: bold;
   margin: 20px 0;
 }
+
+.wrap .div .bold {
+  font-weight: bold;
+}
 /*# sourceMappingURL=style.css.map */
